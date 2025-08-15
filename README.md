@@ -3,6 +3,8 @@
 
 This is just a demo sample calendar app to work on deployment and containerization skills.
 
+Info:
+
 ```bash
 # Build and run with Docker Compose
 docker-compose up --build
